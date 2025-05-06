@@ -8,5 +8,8 @@ public class Main {
 
         GenericMethods.printArguments(person, message, student);
         GenericMethods.printArguments(student, person, message);
+
+
+
     }
 }
